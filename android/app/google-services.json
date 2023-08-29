@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "659435612238",
+    "project_id": "sb-mart-cb307",
+    "storage_bucket": "sb-mart-cb307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659435612238:android:e3438a06c4be32ddb2bb1f",
+        "android_client_info": {
+          "package_name": "com.myfoods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "659435612238-o73qr5m17l45lqb83554dv2daoqrujpj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkkFH-CHlNiWNrouh27KyvPx_mpwiNBQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "659435612238-o73qr5m17l45lqb83554dv2daoqrujpj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
